@@ -1,3 +1,16 @@
+PLYLST is dead. Resuscitation Needed.
+
+
+Some fun stats for kicks...
+8,987 connected Spotify accounts
+9,029 playlists created
+4,893 genres tracked
+627,515 artists tracked
+3,249,805 albums tracked
+10,323,863 tracks tracked
+29,794,988 streams tracked
+62GB of data stored
+
 ## About
 I ([@Shpigford](https://twitter.com/Shpigford)) have been a longtime iTunes user and, despite its shortcomings, the ability to build complex, dynamic playlists has yet to be matched by the other streaming services.
 
